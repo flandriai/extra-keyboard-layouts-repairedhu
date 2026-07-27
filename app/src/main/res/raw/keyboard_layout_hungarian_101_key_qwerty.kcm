@@ -199,11 +199,11 @@ key T {
 }
 
 key Y {
-  label: 'y'
-  base: 'y'
-  shift: 'Y'
-  capslock: 'Y'
-  capslock+shift: 'y'
+  label: 'z'
+  base: 'z'
+  shift: 'Z'
+  capslock: 'Z'
+  capslock+shift: 'z'
 }
 
 key U {
@@ -369,12 +369,12 @@ key APOSTROPHE {
 }
 
 key 0 {
-  label: '\u00ed'
-  base: '\u00ed'
-  shift: '\u00cd'
-  capslock: '\u00cd'
-  capslock+shift: '\u00ed'
-  ralt: '0'
+  label: '0'
+  base: '0'
+  shift: '\u00a7'
+  capslock: '0'
+  capslock+shift: '\u00a7'
+  ralt: '\u00ed'
 }
 
 key BACKSLASH {
@@ -387,11 +387,11 @@ key BACKSLASH {
 }
 
 key Z {
-  label: 'z'
-  base: 'z'
-  shift: 'Z'
+  label: 'y'
+  base: 'y'
+  shift: 'Y'
   capslock: 'Z'
-  capslock+shift: 'z'
+  capslock+shift: 'y'
   ralt: '\u003e'
 }
 
